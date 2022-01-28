@@ -6,3 +6,7 @@ This project is based on Basic Reservoir Engineering concept which is MBAL. The 
 ### Requirements
 - The data
 - Python (NumPy, Pandas, Matplotlib)
+
+### Written by:
+- The code : Faustina Leonita
+- The report : Ahmad Gojali, Jetren Horinsen, Firli Nurhakim
